@@ -14,7 +14,7 @@
 
 
 ## 🟣 Tecnologias usadas
-
+link (https://kaykysousab.github.io/ks-online/)
 - HTML
 - CSS
 
